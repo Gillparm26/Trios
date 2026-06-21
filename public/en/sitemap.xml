@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50069/Gillparm26/gallery/</loc>
+    <loc>http://localhost:64573/Gillparm26/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:50069/Gillparm26/</loc>
+    <loc>http://localhost:64573/Gillparm26/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:50069/Gillparm26/"
+                href="http://localhost:64573/Gillparm26/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:50069/Gillparm26/es/"
+                href="http://localhost:64573/Gillparm26/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:50069/Gillparm26/fr/"
+                href="http://localhost:64573/Gillparm26/fr/"
                 />
   </url><url>
-    <loc>http://localhost:50069/Gillparm26/categories/</loc>
+    <loc>http://localhost:64573/Gillparm26/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:50069/Gillparm26/categories/"
+                href="http://localhost:64573/Gillparm26/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:50069/Gillparm26/es/categories/"
+                href="http://localhost:64573/Gillparm26/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:50069/Gillparm26/fr/categories/"
+                href="http://localhost:64573/Gillparm26/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:50069/Gillparm26/tags/</loc>
+    <loc>http://localhost:64573/Gillparm26/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:50069/Gillparm26/tags/"
+                href="http://localhost:64573/Gillparm26/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:50069/Gillparm26/es/tags/"
+                href="http://localhost:64573/Gillparm26/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:50069/Gillparm26/fr/tags/"
+                href="http://localhost:64573/Gillparm26/fr/tags/"
                 />
   </url>
 </urlset>
