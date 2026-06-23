@@ -510,7 +510,7 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
+     disableThemeToggle: true
     # defaultTheme: "light" # dark
 
   font:
@@ -562,8 +562,8 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is Parmjeet Kaur"
-    title: "Parmjeet Kaur."
+    intro: "Hi, My name is Parmjeet Kaur"
+    title: "Parm"
     subtitle: "Turning data into actionable insights and business solutions"
     content: "Passionate about data analytics, dashboard developement, and data-driven decision making."
     image: /images/fav.png
@@ -573,7 +573,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/files/Resume.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/fav.png"
     content: |-
       Motivated Data Analyst student with knowledge of data cleaning, visualization, and statical analysis. Skilled in tools such as Excel, SQL, Python, and Power BI to transform raw into meaningful insights. Passionate about data-driven decision making and solving real-world business problem. 
 
