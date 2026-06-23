@@ -563,8 +563,8 @@ params:
   hero:
     enable: true
     intro: "Hi, My name is Parmjeet Kaur"
-    title: "Parm"
-    subtitle: "Turning data into actionable insights and business solutions"
+    title: "Parmjeet Kaur"
+    subtitle: "Data Analyst & AI Specialists"
     content: "Passionate about data analytics, dashboard developement, and data-driven decision making."
     image: /images/fav.png
     bottomImage:
