@@ -1,4 +1,4 @@
-baseURL: "https://gillparm26.github.io/Parm.github.io/"
+baseURL: "https://localhost:1313/"
 languageCode: "en-us"
 title: "Parmjeet kaur Profile"
 theme: hugo-profile
@@ -504,7 +504,7 @@ params:
   # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
 
   # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
-  Recent post: false
+  Recent post: true
 
   # Whether the fade animations on the home page will be enabled
   animate: true
@@ -828,7 +828,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 1
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
