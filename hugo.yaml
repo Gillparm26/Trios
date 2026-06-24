@@ -1,4 +1,4 @@
-baseURL: "https://github.com/Gillparm26"
+baseURL: "https://localhost:1313/"
 languageCode: "en-us"
 title: "Parmjeet kaur Profile"
 theme: hugo-profile
@@ -18,7 +18,7 @@ languages:
           name: Blog
           title: Blog posts
           url: /blogs
-          weight: 1
+          weight: 3
         - identifier: gallery
           name: Gallery
           title: Image gallery
@@ -490,8 +490,8 @@ markup:
 params:
   title: "Parmjeet Profile"
   description: Data Analyst
-  # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+ # staticPath: "The path to serve the static files from"
+  favicon: "/fav.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -504,7 +504,7 @@ params:
   # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
 
   # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
-  mathjax: false
+  Recent post: false
 
   # Whether the fade animations on the home page will be enabled
   animate: true
@@ -544,7 +544,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Parmjeet Profile" # Brand name for the brand | default is the title variable
+    brandName: "PARM" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -566,7 +566,7 @@ params:
     title: "Parmjeet Kaur"
     subtitle: "Data Analyst & AI Specialists"
     content: "Passionate about data analytics, dashboard developement, and data-driven decision making."
-    image: /images/fav.png
+    image: /images/jason.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -576,7 +576,7 @@ params:
       url: "/files/Resume.pdf"
       download: true
       newPage: false
-    socialLinks:
+    #socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://example.com
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/fav.png"
+    image: "/images/fav.jpg"
     content: |-
       Motivated Data Analyst student with knowledge of data cleaning, visualization, and statical analysis. Skilled in tools such as Excel, SQL, Python, and Power BI to transform raw into meaningful insights. Passionate about data-driven decision making and solving real-world business problem. 
 
@@ -599,9 +599,9 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
+        - "SQL"
+        - "Python"
+        - "Power BI"
        # - "React"
        # - "Node"
        # - "Express"
@@ -611,8 +611,8 @@ params:
     enable: false
     # title: "Custom Name"
     items:
-      - company: "Facebook"
-        companyUrl: "https://example.com"
+      - company: "McDonald's"
+       # companyUrl: "https://example.com"
         jobs:
           - name: "Senior Software Developer"
             date: "Jan 2023 - present"
@@ -708,19 +708,17 @@ params:
 
       - title: "Bachelor's Degree in Business"
         school:
-          name: "Canadore College of Applied Arts and Technology, Scarborugh"
+          name: "Canadore College of Applied Arts and Technology, Scarborough"
          # url: "https://example.org"
         date: "2016 - 2018"
-        GPA: "3.9 out of 5.0"
+       # GPA: "3.9 out of 5.0"
         content: |-
           - Graduated with a Diploma in Business, gaining strong knowledge of management, marketing, and finance.
           - Strong understanding of customer service, business operations, and market trends.
           - Passionate about business growth, innovation, and organizational success.
-
-          Extracurricular Activities
-            - Participate in activities that develop leadership, teamwork, and communication skills.
-            - Build confidence through practical experiences, collaboration, and creative learning.
-            - Develop well-rounded skills that support both personal growth and career success.
+          - Participated in activities that develop leadership, teamwork, and communication skills.
+          - Build confidence through practical experiences, collaboration, and creative learning.
+          
         featuredLink:
           enable: false
           name: "My academic record"
@@ -728,12 +726,15 @@ params:
       - title: "High School"
         school:
           name: "GGSS Scool, India"
-        Content: |-
-            - Participated in academic projects, presentations, and team-based assignments.
-            - Participated in extracurricular activities, clubs, sports, or community events.
-            - Gained basic knowledge of technology, digital tools, and problem-solving skills.
-            - Volunteered in school or community initiatives to build responsibility and collaboration skills.
-        GPA: "4.2 out of 5.0"
+
+        Content:  |-
+
+          - Participated in academic projects, presentations, and team-based assignments.
+          - Participated in extracurricular activities, clubs, sports, or community events.
+          - Gained basic knowledge of technology, digital tools, and problem-solving skills.
+          - Volunteered in school or community initiatives to build responsibility and collaboration skills.
+
+       # GPA: "4.2 out of 5.0"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -820,14 +821,14 @@ params:
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
+    emailCaption: "gillparm12@hotmail.com"
     #   messageCaption: "Enter your message here"
     #   messageRows: 5
 
   footer:
     recentPosts:
       path: "blogs"
-      count: 1
+      count: 3
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
@@ -838,11 +839,11 @@ params:
      # instagram: https://instagram.com
      # facebook: https://facebook.com
 
-  # List pages like blogs and posts
+   # List pages like blogs and posts
   listPages:
     disableFeaturedImage: false
 
-  # Single pages like blog and post
+    #Single pages like blog and post:
   singlePages:
     socialShare: true
     readTime:
