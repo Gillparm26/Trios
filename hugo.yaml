@@ -491,7 +491,7 @@ params:
   title: "Parmjeet Profile"
   description: Data Analyst
  # staticPath: "The path to serve the static files from"
-  favicon: "/fav.jpg"
+  favicon: "fav.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -566,7 +566,7 @@ params:
     title: "Parmjeet Kaur"
     subtitle: "Data Analyst & AI Specialists"
     content: "Passionate about data analytics, dashboard developement, and data-driven decision making."
-    image: /images/jason.jpg
+    image: images/jason.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/fav.jpg"
+    image: "images/fav.jpg"
     content: |-
       Motivated Data Analyst student with knowledge of data cleaning, visualization, and statical analysis. Skilled in tools such as Excel, SQL, Python, and Power BI to transform raw into meaningful insights. Passionate about data-driven decision making and solving real-world business problem. 
 
