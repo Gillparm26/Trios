@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ethics on Parmjeet kaur Profile</title>
-		<link>https://Gillparm26.github.io/Trios/tags/ethics/</link>
+		<link>http://localhost:1313/Trios/tags/ethics/</link>
 		<description>Recent content in Ethics on Parmjeet kaur Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://Gillparm26.github.io/Trios/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/Trios/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Ethics Behind Course Evaluation Surveys</title>
-				<link>https://Gillparm26.github.io/Trios/blogs/anonymous-ethics/</link>
+				<link>http://localhost:1313/Trios/blogs/anonymous-ethics/</link>
 				<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://Gillparm26.github.io/Trios/blogs/anonymous-ethics/</guid>
+				<guid>http://localhost:1313/Trios/blogs/anonymous-ethics/</guid>
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Course evaluation surveys are commonly used by colleges and universities to gather feedback from students and improve educational programs. While these surveys seem straightforward, they can raise important ethical concerns when viewed from a data science perspective. Ethical data collection requires organizations to be transparent, protect privacy, obtain informed consent, and ensure fairness in how information is gathered and used.&lt;/p&gt;&#xA;&lt;p&gt;In this scenario, students complete a ten-question survey at the end of a course. To access the survey, they must log in using their organizational username and password. The survey states that responses will remain anonymous and does not ask for the student&amp;rsquo;s name. Executive management intends to use the survey results to determine which courses may need redesigning or updating.&lt;/p&gt;</description>
 			</item>
 	</channel>
