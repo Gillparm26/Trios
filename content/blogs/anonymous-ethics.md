@@ -1,12 +1,13 @@
 ---
-title: "The Ethics of Course Evaluation Surveys"
+
+title: "The Ethics Behind Course Evaluation Surveys"
+date: 2026-06-24
+tags:
+  - data science
+  - ethics
+  - education
+
 ---
-
-Anonymous or not?  
-
-The Ethics Behind Course Evaluation Surveys 
-
- 
 
 ## Introduction 
 
