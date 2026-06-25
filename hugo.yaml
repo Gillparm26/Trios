@@ -1,4 +1,4 @@
-baseURL: "https://localhost:1313/"
+baseURL: "https://gillparm26.github.io/Trios/"
 languageCode: "en-us"
 title: "Parmjeet kaur Profile"
 theme: hugo-profile
@@ -727,14 +727,14 @@ params:
         school:
           name: "GGSS Scool, India"
 
-        Content:  |-
-
-          - Participated in academic projects, presentations, and team-based assignments.
-          - Participated in extracurricular activities, clubs, sports, or community events.
-          - Gained basic knowledge of technology, digital tools, and problem-solving skills.
-          - Volunteered in school or community initiatives to build responsibility and collaboration skills.
-
-       # GPA: "4.2 out of 5.0"
+        content: |-
+          - Graduated with a Diploma in Business, gaining strong knowledge of management, marketing, and finance.
+          - Strong understanding of customer service, business operations, and market trends.
+          - Passionate about business growth, innovation, and organizational success.
+          - Participated in activities that develop leadership, teamwork, and communication skills.
+          - Build confidence through practical experiences, collaboration, and creative learning.
+          
+        GPA: "4.2 out of 5.0"
         featuredLink:
           enable: false
           url: "https://example.com"
