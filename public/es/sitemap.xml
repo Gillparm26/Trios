@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Trios/es/categories/</loc>
+    <loc>https://Gillparm26.github.io/Trios/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/Trios/categories/"
+                href="https://Gillparm26.github.io/Trios/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/Trios/es/categories/"
+                href="https://Gillparm26.github.io/Trios/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Trios/fr/categories/"
+                href="https://Gillparm26.github.io/Trios/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Trios/es/</loc>
+    <loc>https://Gillparm26.github.io/Trios/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/Trios/"
+                href="https://Gillparm26.github.io/Trios/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/Trios/es/"
+                href="https://Gillparm26.github.io/Trios/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Trios/fr/"
+                href="https://Gillparm26.github.io/Trios/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Trios/es/tags/</loc>
+    <loc>https://Gillparm26.github.io/Trios/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/Trios/tags/"
+                href="https://Gillparm26.github.io/Trios/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/Trios/es/tags/"
+                href="https://Gillparm26.github.io/Trios/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Trios/fr/tags/"
+                href="https://Gillparm26.github.io/Trios/fr/tags/"
                 />
   </url>
 </urlset>
