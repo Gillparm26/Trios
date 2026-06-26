@@ -573,7 +573,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/files/Resume.pdf"
+      url: "files/Resume.pdf"
       download: true
       newPage: false
     #socialLinks:
