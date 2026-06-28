@@ -2,20 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/Trios/categories/ai/</loc>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Trios/tags/ai-ethics/</loc>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Trios/tags/artificial-intelligence/</loc>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Trios/blogs/bias-and-fairness-in-ai/</loc>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Trios/blogs/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Trios/tags/data-science/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Trios/tags/education/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Trios/tags/ethics/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Trios/categories/</loc>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/Trios/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/Trios/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Trios/fr/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/Trios/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -33,7 +54,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/Trios/tags/</loc>
-    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-27T20:07:25-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -50,27 +71,19 @@
                 href="http://localhost:1313/Trios/fr/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/Trios/tags/data-science/</loc>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Trios/tags/education/</loc>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Trios/tags/ethics/</loc>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Trios/blogs/anonymous-ethics/</loc>
     <lastmod>2026-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Trios/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Trios/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/Trios/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/Trios/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Trios/fr/categories/"
-                />
   </url>
 </urlset>
